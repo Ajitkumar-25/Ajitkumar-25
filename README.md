@@ -1,7 +1,7 @@
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
-###  <div align="center">  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)</div>
+### <div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Ajitkumar-25&&theme=dark)](https://git.io/streak-stats) </div>  
 
 ### <div align="center">I'm Ajit, getting started with Android,👨‍💻 hand in competitive programming </div>  
   
