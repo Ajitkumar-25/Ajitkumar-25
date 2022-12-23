@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ajit, getting started with Android,👨‍💻 hand in competitive programming </div>  
   
 
-- 🔭 I’m currently learning kotlin   
+- 🔭 I’m currently learning javascript  
   
 
-- 🌱 I’m currently exploring android studio to get started with android  
+- 🌱 I’m currently exploring backend technologies
   
 
 - ❓ Is it better than web ?? I am finding !!  
