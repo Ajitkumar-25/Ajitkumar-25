@@ -1,27 +1,17 @@
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>   -->
-### <div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=Ajitkumar-25&&theme=dark)](https://git.io/streak-stats) </div>  
+### <div align="center">I'm Ajit, getting started with Web,👨‍💻 hand in competitive programming </div>  
 
-### <div align="center">I'm Ajit, getting started with Android,👨‍💻 hand in competitive programming </div>  
-  
 
-- 🔭 I’m currently learning javascript  
-  
+<br/> 
 
-- 🌱 I’m currently exploring backend technologies
-  
-
-- ❓ Is it better than web ?? I am finding !!  
-  
-
-- ⚡ Fun fact: Removing TLE takes more time than expected  
-  
-
+# 💫 About Me:
+ 🌱 Keen to be a Web Developer<br> 🔭 I’m currently learning JavaScript  <br> ❓ Is it better than Android ?? I am finding !!  <br>⚡ Fun fact: Removing TLE takes more time than expected  <br>
 <br/>  
 
 
-## My Skill Set  
+# 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,10 +48,12 @@
 
 </td></tr></table>  
 
+
+
 <br/>  
 
 
-## Connect with me  
+# 🌐 Socials: <br>
 <div align="center">
 <a href="https://github.com/Ajitkumar-25" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,16 +73,20 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ajitkumar-25&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊 GitHub Stats:
+
+<br><div align="center">![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</div><br/>
+<br><div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Ajitkumar-25&theme=dark&hide_border=false)</div><br/>
+<br><div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</div>
 
 <br/>  
 
+# 🏆 GitHub Trophies:
+<br><div align="center">![](https://github-profile-trophy.vercel.app/?username=Ajitkumar-25&theme=radical&no-frame=false&no-bg=false&margin-w=4)</div>
+<br>
+# ✍️ Random Dev Quote:
+<br><div align="center">![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)</div>
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
