@@ -24,6 +24,9 @@
 # 🌐 Socials:
 <br>
 <div align="center">
+ <a href="" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%231E77B5.svg?&style=for-the-badge&logo=&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 <a href="https://github.com/Ajitkumar-25" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -36,6 +39,19 @@
 <a href="https://linkedin.com/in/Ajit Kumar" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://www.codechef.com/users/coder_ak25" target="_blank">
+<img src=https://img.shields.io/badge/Codechef-%2324292e.svg?&style=for-the-badge&logo=codechef&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+ <a href="https://codeforces.com/profile/AjitKumar_25" target="_blank">
+<img src=https://img.shields.io/badge/Codeforces-%23000000.svg?&style=for-the-badge&logo=codeforces&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+ <a href="https://leetcode.com/AjitKumar_25/" target="_blank">
+<img src=https://img.shields.io/badge/Leetcode-%231E87B5.svg?&style=for-the-badge&logo=Leetcode&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+ <a href="https://auth.geeksforgeeks.org/user/ajitkumar_25/" target="_blank">
+<img src=https://img.shields.io/badge/Gfg-%231E77B.svg?&style=for-the-badge&logo=gfg&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+
 </div>  
   
 
@@ -44,9 +60,15 @@
 
 # 📊 GitHub Stats:
 
-<br><div align="center">![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false)</div><br/>
 <br><div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Ajitkumar-25&theme=dark&hide_border=false)</div><br/>
-<br><div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-25&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</div>
+
+<br><div align="center">![](https://github-readme-stats.vercel.app/api/top-langs?username=Ajitkumar-25&count_private=true&theme=dark)</div><br/>
+
+<br><div align="center">![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-25&count_private=true&theme=dark&show_icons=true&hide=issues)</div><br/>
+<hr>
+
+# ⚡ Visitors count:
+<p align="center"> Visitors count:<br><img src="https://profile-counter.glitch.me/Ajitkumar-25/count.svg" /></p>
 
 <br/>  
 
