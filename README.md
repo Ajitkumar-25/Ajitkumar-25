@@ -60,11 +60,12 @@
 
 # 📊 GitHub Stats:
 
+
 <br><div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=Ajitkumar-25&theme=dark&hide_border=false)</div><br/>
-
-<br><div align="center">![](https://github-readme-stats.vercel.app/api/top-langs?username=Ajitkumar-25&count_private=true&theme=dark)</div><br/>
-
 <br><div align="center">![](https://github-readme-stats.vercel.app/api?username=Ajitkumar-25&count_private=true&theme=dark&show_icons=true&hide=issues)</div><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar-25&layout=compact&hide=php,c,html,roff&langs_count=10&theme=dark" alt="Shruti3004" />
+</p>
 <hr>
 
 # ⚡ Visitors count:
