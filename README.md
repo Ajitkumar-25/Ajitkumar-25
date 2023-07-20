@@ -1,5 +1,15 @@
 
-### <div align="center">I'm Ajit, getting started with Web,👨‍💻 hand in competitive programming </div>  
+<h1 align="center">Hi 👋, I'm Ajit</h1> 
+
+### <div align="center">A passionate Web developer.<br>Pre Final Year year student at Jaypee Institute of Information Technology.</div>  
+
+
+
+<br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
+   width="600" height="350"/>
+</div>
 
 
 <br/> 
@@ -34,6 +44,8 @@
 
 
 # 🌐 Socials:
+
+
 <br>
 <div align="center">
  <a href="https://ajitkumar-25.github.io/Personal-website/" target="_blank">
